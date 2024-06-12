@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,8 +48,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/muhammademanabbas/muhammademanabbas/output/snake.svg" alt="Snake animation" />
 
