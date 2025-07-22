@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Eman Abbas and I'm a professional web developer.</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Eman Abbas and I'm a professional full stack developer.</h2>
 
 ###
 
