@@ -23,11 +23,5 @@
              repeatCount="indefinite" />
   </text>
 </svg>
-<svg width="900" height="60" viewBox="0 0 900 60">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammademanabbas&theme=tokyonight&hide_border=true" alt="Eman's GitHub Streak" /> 
-</svg>
-
 
 </div>
-
