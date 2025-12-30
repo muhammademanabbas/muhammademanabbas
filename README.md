@@ -23,9 +23,11 @@
              repeatCount="indefinite" />
   </text>
 </svg>
-<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        fill="#58a6ff" font-size="20" font-family="monospace">
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammademanabbas&theme=tokyonight&hide_border=true" alt="Eman's GitHub Streak" />
+<svg width="900" height="60" viewBox="0 0 900 60">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammademanabbas&theme=tokyonight&hide_border=true" alt="Eman's GitHub Streak" /> 
+</svg>
+
+
 </div>
 
