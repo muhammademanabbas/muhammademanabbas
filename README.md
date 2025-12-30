@@ -1,9 +1,6 @@
 <div align="center">
 
 <svg width="700" height="80" viewBox="0 0 700 80">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"<div align="center">
-
-<svg width="700" height="80" viewBox="0 0 700 80">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         fill="white" font-size="42" font-family="monospace">
     Hi there! 👋
@@ -14,12 +11,11 @@
   </text>
 </svg>
 
-<div style="font-size: 1.5em; font-weight: bold; margin-top: 10px;">
+<div style="font-size: 1.5em; font-weight: bold; margin-top: 20px;">
   I am Muhammad Eman
 </div>
 
-<div style="height: 1px; width: 60%; background: linear-gradient(to right, transparent, #58a6ff, transparent); margin: 25px 0;"></div>
-
+<hr style="border: 0; border-top: 1px solid #30363d; margin: 20px 0; width: 80%;">
 
 <svg width="900" height="60" viewBox="0 0 900 60">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
