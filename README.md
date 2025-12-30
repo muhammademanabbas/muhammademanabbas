@@ -3,7 +3,7 @@
 <svg width="700" height="80" viewBox="0 0 700 80">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         fill="white" font-size="42" font-family="monospace">
-    Hi there! 🚀
+    Hi there! 👋
     <animate attributeName="x"
              values="50%;49%;51%;50%"
              dur="0.15s"
