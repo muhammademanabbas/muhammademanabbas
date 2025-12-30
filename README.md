@@ -3,7 +3,7 @@
 <svg width="700" height="80" viewBox="0 0 700 80">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         fill="white" font-size="42" font-family="monospace">
-    Hi there! 👋
+    Hi there! 🚀
     <animate attributeName="x"
              values="50%;49%;51%;50%"
              dur="0.15s"
@@ -11,9 +11,11 @@
   </text>
 </svg>
 
-<div style="font-size: 6em; font-weight: bold; margin-top: 20px;">
+<div style="font-size: 1.5em; font-weight: bold; margin-top: 10px;">
   I am Muhammad Eman
 </div>
+
+<div style="height: 1px; width: 100px; background-color: #58a6ff; margin: 20px 0;"></div>
 
 <svg width="900" height="60" viewBox="0 0 900 60">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
