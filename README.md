@@ -16,7 +16,7 @@
 <svg width="900" height="60" viewBox="0 0 900 60">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         fill="#58a6ff" font-size="20" font-family="monospace">
-    Code builds the product, and strategy builds the growth.
+    If you want to go fast, go alone; if you want to go far, go together.
     <animate attributeName="opacity"
              values="1;0.8;1"
              dur="1.5s"
