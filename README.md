@@ -11,7 +11,9 @@
   </text>
 </svg>
 
-<h2>I am Muhammad Eman</h2>
+<div style="font-size: 1.5em; font-weight: bold; margin: 20px 0;">
+  I am Muhammad Eman
+</div>
 
 <svg width="900" height="60" viewBox="0 0 900 60">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
